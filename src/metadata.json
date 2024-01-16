@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "m.liu.jin@gmail.com",
+                "Name": "Jin Liu"
+            }
+        ],
+        "Category": "Accessibility",
+        "Description": "Hide mouse cursor on inactivity",
+        "EnabledByDefault": false,
+        "Id": "hidecursor",
+        "License": "GPL",
+        "Name": "Hide Cursor"
+    },
+    "X-KDE-ConfigModule": "kwin_hidecursor_config"
+}
