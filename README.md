@@ -2,7 +2,7 @@
 
 Hide mouse cursor on inactivity or typing.
 
-Duration of inactivity and when hide on typing can be configured in `System Settings - Window Management - Desktop Effects`.
+Duration of inactivity and whether to hide on typing can be configured in `System Settings - Window Management - Desktop Effects`.
 
 ## Installation
 
