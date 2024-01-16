@@ -8,6 +8,10 @@ Duration of inactivity and when hide on typing can be configured in `System Sett
 
 Extract the following package into `/usr/lib/qt6/plugins/`:
 
+KDE 6 RC1
+
+https://github.com/jinliu/kwin-effect-hide-cursor/releases/download/v0.1/kwin-effect-hide-cursor-0.1.tar.gz
+
 ## Build
 
 ```bash
