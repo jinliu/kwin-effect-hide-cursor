@@ -9,7 +9,6 @@
         "Category": "Accessibility",
         "Description": "Hide mouse cursor on inactivity",
         "EnabledByDefault": false,
-        "Id": "hidecursor",
         "License": "GPL",
         "Name": "Hide Cursor"
     },
